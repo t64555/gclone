@@ -4,7 +4,7 @@ on:
   push:
     tags:
       - '*'
-#11
+
 jobs:
   goreleaser:
     runs-on: ubuntu-latest
